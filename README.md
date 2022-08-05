@@ -1,4 +1,4 @@
-<img src="img/brexit_academy_logo.png" alt="Logo Brexit Academy" style="display:block; margin: 0 auto;">
+<img src="img/brexit_academy_logo.png" alt="Logo Brexit Academy">
 <h1>BREXIT Academy</h1>
 
 <h2>Сайт для обучения менеджеров работе в компании Канюк и Брекзит</h2>
